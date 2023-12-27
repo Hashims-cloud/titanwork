@@ -4,4 +4,5 @@ var city = Rwp;
 
 if ( name == 'syed' && city == 'Rwp')
     print("Name is:"+name+" City is:"+City)
-end
+else
+    print("You're searching for the wrong person")
